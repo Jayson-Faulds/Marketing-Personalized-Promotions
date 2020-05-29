@@ -1,2 +1,4 @@
 # Marketing-Personalized-Promotions
 Here we use Python to analyze personalized promotions for a grocery store
+
+More specifically, we are working with grocery store data. We must determine whether the chain should roll out personalized promotions for Coke or Pepsi products. Coke and Pepsi would have different personalized promotions, and we need to find out which would be better for the chain to select. We perform an analysis of consumers and their spending habits to make clusters with which we can target with different personalized promotions. After performing the clustering based on their spending habits/patterns, we can estimate returns from promotions for both Coke and Pepsi products. Whichever brand yields higher returns is what we select as the best option, along with recommended promotions to a list of customers to personalize.
